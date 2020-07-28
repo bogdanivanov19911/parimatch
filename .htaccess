@@ -1,0 +1,8 @@
+DirectoryIndex index.php
+
+AddDefaultCharset utf-8
+RewriteEngine on
+ErrorDocument 404 /404.php
+RewriteBase /
+
+Options All -Indexes

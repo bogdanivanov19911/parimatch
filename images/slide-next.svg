@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="70px" viewBox="0 0 52 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="PC" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Главная" transform="translate(-1476.000000, -269.000000)">
+            <g id="Слайдер" transform="translate(328.000000, 114.000000)">
+                <g id="2" transform="translate(1174.000000, 190.000000) scale(-1, 1) translate(-1174.000000, -190.000000) translate(1148.000000, 155.000000)">
+                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" opacity="0.1" x="0" y="0" width="52" height="70" rx="2"></rect>
+                    <g id="chevron-left" transform="translate(22.000000, 29.000000)" opacity="0.24" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                        <polyline id="Path" points="6 12 0 6 6 0"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

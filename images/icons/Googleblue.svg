@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0f204c;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Google" class="cls-1" d="M4581.19,324.8v4.4h6.23a6.6,6.6,0,1,1-6.23-8.8,6.515,6.515,0,0,1,4.28,1.593l2.89-3.317a10.985,10.985,0,1,0,3.83,8.323v-2.2h-11Z" transform="translate(-4570.19 -316)"/>
+</svg>

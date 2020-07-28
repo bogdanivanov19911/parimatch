@@ -1,0 +1,123 @@
+#overlay {
+    position:absolute;
+    top:0; right:0;
+    bottom:0; left:0;
+    background: url("/image/overlay-pattern.png");
+    z-index:10000;
+    display:none;
+}
+
+#alertModalOuter {
+	width: 40%;
+	max-height: 540px;
+    padding:6px;
+    border-radius:5px;
+    background: #232323;
+    position: fixed;
+    z-index:10001;
+	display:none;
+}
+
+#alertModal {
+    background:#fff;
+	overflow: auto;
+	width: 98%;
+	max-height: 500px;
+	padding: 5px 1% 3px 1%;
+	border-radius: 0px 0px 5px 5px;
+	min-height: 200px;
+	font: normal 14px Arial;
+	text-align: justify;
+	float:left;
+	position: relative;
+}
+
+#ModalWindow {
+	background: #fbb515;
+	border-radius: 5px 5px 0px 0px;
+	position: relative;
+}
+
+#ModalTitle {
+	color: #1f1f1f; 
+	font-family: tahoma, arial, verdana, sans-serif;
+	min-height: 26px;
+	background: #fff;
+	border-radius: 5px;
+	font-weight: bold;
+	font-size: 14px;
+	padding: 7px 7% 0px 1%;
+	width: 92%;
+	display: block;
+}
+
+#ModalClose {
+	background: url("/image/delete.png") no-repeat;
+	position: absolute;
+	right: 8px;
+	top: 6px;
+	width: 20px;
+	height: 20px;
+	display: block;
+}
+
+.success-bet {
+	color: blue;
+	font-size: 13px;
+	width: 94%;
+	padding: 5px 3% 5px 3%;
+	border-bottom: dashed 1px #c6c6c6;
+}
+
+.error-bet {
+	color: red;
+	font-size: 13px;
+	width: 94%;
+	padding: 5px 3% 5px 3%;
+	border-bottom: dashed 1px #c6c6c6;
+}
+
+.accept_bet_ok {
+	position:absolute;
+	bottom: 14px;
+	right: 10px;
+	background-color: #3ba61d;
+	border-radius: 20px;
+	min-width: 90px;
+	text-align: center;
+    padding: 8px 12px!important;
+	color: #fff;
+	font-size: 13px;
+}
+
+.error-bet-big {
+	width: 94%;
+	padding: 14% 3% 5px 3%;
+	text-align: center;
+	font-size: 13px;
+	color: #000;
+}
+
+.error-bet-big a {
+	color: blue;
+}
+
+.btn_alert_bet {
+	background-color: #35a804;
+    padding: 14px 25px;
+    margin-top: 12px;
+    margin-bottom: 8px;
+}
+
+@media screen and (max-width:768px){
+	#alertModalOuter {
+		width: 80%;
+		max-height: 540px;
+		padding:6px;
+		border-radius:5px;
+		background: #232323;
+		position: fixed !important;
+		z-index:10001;
+		display:none;
+	}
+}
